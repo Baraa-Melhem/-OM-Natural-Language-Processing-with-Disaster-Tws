@@ -1,4 +1,4 @@
-This is my code thaT I used to submit a late submission on "-OM-Natural-Language-Processing-with-Disaster-Tws" competetion on KAGGLE 
+This is my code that I used to submit a late submission on "-OM-Natural-Language-Processing-with-Disaster-Tws" competetion on KAGGLE 
 and I got score of : 0.76555
 
 Competition Description
